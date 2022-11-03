@@ -86,7 +86,7 @@
 
                         <suiteXmlFiles>
 
-                            <suiteXmlFile>testng_DDT.xml</suiteXmlFile>
+                            <suiteXmlFile>testngDDT.xml</suiteXmlFile>
 
                             <!-- <suiteXmlFile>testng_crossBrowser_parallel.xml</suiteXmlFile> -->
 
