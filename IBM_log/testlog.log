@@ -1,0 +1,161 @@
+2022-10-27 00:00:12,425 - NOP Comm Login -INFO - launching chrome browser.
+2022-10-27 00:00:16,277 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 00:00:17,425 - NOP Comm Login -INFO - clear text from username field.
+2022-10-27 00:00:17,522 - NOP Comm Login -INFO - enter value into username: admin@yourstore.com
+2022-10-27 00:00:17,669 - NOP Comm Login -INFO - clear text from password field.
+2022-10-27 00:00:17,763 - NOP Comm Login -INFO - enter value into password: admin
+2022-10-27 00:00:17,850 - NOP Comm Login -INFO - click on checkbox
+2022-10-27 00:00:17,928 - NOP Comm Login -INFO - click on Login button.
+2022-10-27 00:00:21,334 - NOP Comm Login -INFO - Validation of app title after login.
+2022-10-27 00:00:21,364 - NOP Comm Login -INFO - App Title: Dashboard / nopCommerce administration
+2022-10-27 00:00:21,378 - NOP Comm Login -INFO - click on Logout button.
+2022-10-27 00:00:22,719 - NOP Comm Login -INFO - closing chrome browser.
+2022-10-27 00:17:32,221 - NOP Comm Login -INFO - launching chrome browser.
+2022-10-27 00:17:35,223 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 00:17:36,320 - NOP Comm Login -INFO - clear text from username field.
+2022-10-27 00:17:36,432 - NOP Comm Login -INFO - enter value into username: admin@yourstore.com
+2022-10-27 00:17:36,551 - NOP Comm Login -INFO - clear text from password field.
+2022-10-27 00:17:36,632 - NOP Comm Login -INFO - enter value into password: admin
+2022-10-27 00:17:36,704 - NOP Comm Login -INFO - click on checkbox
+2022-10-27 00:17:36,792 - NOP Comm Login -INFO - click on Login button.
+2022-10-27 00:17:39,903 - NOP Comm Login -INFO - Validation of app title after login.
+2022-10-27 00:17:39,918 - NOP Comm Login -INFO - App Title: Dashboard / nopCommerce administration
+2022-10-27 00:17:39,979 - NOP Comm Login -INFO - click on Logout button.
+2022-10-27 00:17:41,152 - NOP Comm Login -INFO - closing chrome browser.
+2022-10-27 00:20:10,822 - NOP Comm Login -INFO - launching chrome browser.
+2022-10-27 00:20:13,714 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 00:20:14,865 - NOP Comm Login -INFO - clear text from username field.
+2022-10-27 00:20:14,960 - NOP Comm Login -INFO - enter value into username: admin@yourstore.com
+2022-10-27 00:20:15,088 - NOP Comm Login -INFO - clear text from password field.
+2022-10-27 00:20:15,191 - NOP Comm Login -INFO - enter value into password: admin
+2022-10-27 00:20:15,270 - NOP Comm Login -INFO - click on checkbox
+2022-10-27 00:20:15,358 - NOP Comm Login -INFO - click on Login button.
+2022-10-27 00:20:18,431 - NOP Comm Login -INFO - Validation of app title after login.
+2022-10-27 00:20:18,507 - NOP Comm Login -INFO - App Title: Dashboard / nopCommerce administration
+2022-10-27 00:20:18,522 - NOP Comm Login -INFO - click on Logout button.
+2022-10-27 00:20:19,722 - NOP Comm Login -INFO - closing chrome browser.
+2022-10-27 00:31:44,783 - NOP Comm Login -INFO - launching chrome browser.
+2022-10-27 00:31:48,561 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 00:31:49,750 - NOP Comm Login -INFO - closing chrome browser.
+2022-10-27 23:11:27,377 - NOP Comm Login -INFO - launching chrome browser.
+2022-10-27 23:11:30,867 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 23:11:33,924 - NOP Comm Login -INFO - clear text from username field.
+2022-10-27 23:11:34,012 - NOP Comm Login -INFO - enter value into username: AshwiniRegression@gmail.com
+2022-10-27 23:11:36,143 - NOP Comm Login -INFO - clear text from password field.
+2022-10-27 23:11:36,232 - NOP Comm Login -INFO - enter value into password: demo@123
+2022-10-27 23:11:38,346 - NOP Comm Login -INFO - click on checkbox
+2022-10-27 23:11:40,427 - NOP Comm Login -INFO - click on Login button.
+2022-10-27 23:11:43,394 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-10-27 23:11:45,426 - NOP Comm Login -INFO - clear text from username field.
+2022-10-27 23:11:45,604 - NOP Comm Login -INFO - enter value into username: DeepikaRegression@yahoomail.com
+2022-10-27 23:11:47,972 - NOP Comm Login -INFO - clear text from password field.
+2022-10-27 23:11:48,063 - NOP Comm Login -INFO - enter value into password: 23129900
+2022-10-27 23:11:50,158 - NOP Comm Login -INFO - click on checkbox
+2022-10-27 23:11:52,237 - NOP Comm Login -INFO - click on Login button.
+2022-10-27 23:11:54,612 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-10-27 23:11:56,643 - NOP Comm Login -INFO - clear text from username field.
+2022-10-27 23:11:56,716 - NOP Comm Login -INFO - enter value into username: nehaRegression@ibm.com
+2022-10-27 23:11:58,846 - NOP Comm Login -INFO - clear text from password field.
+2022-10-27 23:11:58,924 - NOP Comm Login -INFO - enter value into password: welcome@123
+2022-10-27 23:12:01,033 - NOP Comm Login -INFO - click on checkbox
+2022-10-27 23:12:03,114 - NOP Comm Login -INFO - click on Login button.
+2022-10-27 23:12:05,518 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-10-27 23:12:07,550 - NOP Comm Login -INFO - clear text from username field.
+2022-10-27 23:12:07,622 - NOP Comm Login -INFO - enter value into username: BhavanaRegression@ibm.com
+2022-10-27 23:12:09,752 - NOP Comm Login -INFO - clear text from password field.
+2022-10-27 23:12:09,832 - NOP Comm Login -INFO - enter value into password: welcome@123
+2022-10-27 23:12:11,940 - NOP Comm Login -INFO - click on checkbox
+2022-10-27 23:12:14,019 - NOP Comm Login -INFO - click on Login button.
+2022-10-27 23:12:16,410 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-10-27 23:12:16,428 - NOP Comm Login -INFO - closing chrome browser.
+2022-10-28 00:30:06,203 - NOP Comm Login -INFO - launching chrome browser.
+2022-10-28 00:30:09,569 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-28 00:30:12,596 - NOP Comm Login -INFO - clear text from username field.
+2022-10-28 00:30:12,684 - NOP Comm Login -INFO - enter value into username: AshwiniRegression@gmail.com
+2022-10-28 00:30:14,843 - NOP Comm Login -INFO - clear text from password field.
+2022-10-28 00:30:14,958 - NOP Comm Login -INFO - enter value into password: demo@123
+2022-10-28 00:30:17,069 - NOP Comm Login -INFO - click on checkbox
+2022-10-28 00:30:19,111 - NOP Comm Login -INFO - clear text from username field.
+2022-10-28 00:30:21,147 - NOP Comm Login -INFO - clear text from username field.
+2022-10-28 00:30:23,181 - NOP Comm Login -INFO - clear text from username field.
+2022-10-28 00:30:23,200 - NOP Comm Login -INFO - closing chrome browser.
+2022-10-30 22:47:47,615 - NOP Comm Login -INFO - launching chrome browser.
+2022-10-30 22:47:51,164 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-30 22:47:54,244 - NOP Comm Login -INFO - clear text from username field.
+2022-10-30 22:47:54,338 - NOP Comm Login -INFO - enter value into username: AshwiniRegression@gmail.com
+2022-10-30 22:47:56,526 - NOP Comm Login -INFO - clear text from password field.
+2022-10-30 22:47:56,626 - NOP Comm Login -INFO - enter value into password: demo@123
+2022-10-30 22:47:58,749 - NOP Comm Login -INFO - click on checkbox
+2022-10-30 22:48:00,838 - NOP Comm Login -INFO - click on Login button.
+2022-10-30 22:48:03,847 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-10-30 22:48:05,882 - NOP Comm Login -INFO - clear text from username field.
+2022-10-30 22:48:05,954 - NOP Comm Login -INFO - enter value into username: DeepikaRegression@yahoomail.com
+2022-10-30 22:48:08,215 - NOP Comm Login -INFO - clear text from password field.
+2022-10-30 22:48:08,292 - NOP Comm Login -INFO - enter value into password: 23129900
+2022-10-30 22:48:10,386 - NOP Comm Login -INFO - click on checkbox
+2022-10-30 22:48:12,464 - NOP Comm Login -INFO - click on Login button.
+2022-10-30 22:48:14,862 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-10-30 22:48:16,894 - NOP Comm Login -INFO - clear text from username field.
+2022-10-30 22:48:16,963 - NOP Comm Login -INFO - enter value into username: nehaRegression@ibm.com
+2022-10-30 22:48:19,078 - NOP Comm Login -INFO - clear text from password field.
+2022-10-30 22:48:19,153 - NOP Comm Login -INFO - enter value into password: welcome@123
+2022-10-30 22:48:21,265 - NOP Comm Login -INFO - click on checkbox
+2022-10-30 22:48:23,350 - NOP Comm Login -INFO - click on Login button.
+2022-10-30 22:48:25,742 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-10-30 22:48:27,774 - NOP Comm Login -INFO - clear text from username field.
+2022-10-30 22:48:27,841 - NOP Comm Login -INFO - enter value into username: BhavanaRegression@ibm.com
+2022-10-30 22:48:29,978 - NOP Comm Login -INFO - clear text from password field.
+2022-10-30 22:48:30,049 - NOP Comm Login -INFO - enter value into password: welcome@123
+2022-10-30 22:48:32,148 - NOP Comm Login -INFO - click on checkbox
+2022-10-30 22:48:34,234 - NOP Comm Login -INFO - click on Login button.
+2022-10-30 22:48:36,607 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-10-30 22:48:36,628 - NOP Comm Login -INFO - closing chrome browser.
+2022-10-30 22:49:03,868 - NOP Comm Login -INFO - launching chrome browser.
+2022-10-30 22:49:06,635 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-30 22:49:07,701 - NOP Comm Login -INFO - clear text from username field.
+2022-10-30 22:49:07,792 - NOP Comm Login -INFO - enter value into username: admin@yourstore.com
+2022-10-30 22:49:07,896 - NOP Comm Login -INFO - clear text from password field.
+2022-10-30 22:49:07,967 - NOP Comm Login -INFO - enter value into password: admin
+2022-10-30 22:49:08,053 - NOP Comm Login -INFO - click on checkbox
+2022-10-30 22:49:08,129 - NOP Comm Login -INFO - click on Login button.
+2022-10-30 22:49:11,110 - NOP Comm Login -INFO - Validation of app title after login.
+2022-10-30 22:49:11,142 - NOP Comm Login -INFO - App Title: Dashboard / nopCommerce administration
+2022-10-30 22:49:11,155 - NOP Comm Login -INFO - click on Logout button.
+2022-10-30 22:49:12,227 - NOP Comm Login -INFO - closing chrome browser.
+2022-10-30 23:45:34,814 - NOP Comm Login -INFO - launching chrome browser.
+2022-10-30 23:45:37,638 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-30 23:45:41,902 - NOP Comm Login -INFO - closing chrome browser.
+2022-10-30 23:55:26,065 - NOP Comm Login -INFO - launching chrome browser.
+2022-10-30 23:55:28,904 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-30 23:55:33,146 - NOP Comm Login -INFO - closing chrome browser.
+2022-11-02 00:09:58,723 - NOP Comm Login -INFO - launching chrome browser.
+2022-11-02 00:10:03,399 - NOP Comm Login -INFO - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-02 00:10:06,473 - NOP Comm Login -INFO - clear text from username field.
+2022-11-02 00:10:06,561 - NOP Comm Login -INFO - enter value into username: AshwiniRegression@gmail.com
+2022-11-02 00:10:08,663 - NOP Comm Login -INFO - clear text from password field.
+2022-11-02 00:10:08,754 - NOP Comm Login -INFO - enter value into password: demo@123
+2022-11-02 00:10:10,843 - NOP Comm Login -INFO - click on checkbox
+2022-11-02 00:10:12,943 - NOP Comm Login -INFO - click on Login button.
+2022-11-02 00:10:15,950 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-11-02 00:10:17,989 - NOP Comm Login -INFO - clear text from username field.
+2022-11-02 00:10:18,253 - NOP Comm Login -INFO - enter value into username: DeepikaRegression@yahoomail.com
+2022-11-02 00:10:20,399 - NOP Comm Login -INFO - clear text from password field.
+2022-11-02 00:10:20,469 - NOP Comm Login -INFO - enter value into password: 23129900
+2022-11-02 00:10:22,551 - NOP Comm Login -INFO - click on checkbox
+2022-11-02 00:10:24,644 - NOP Comm Login -INFO - click on Login button.
+2022-11-02 00:10:27,568 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-11-02 00:10:29,603 - NOP Comm Login -INFO - clear text from username field.
+2022-11-02 00:10:29,667 - NOP Comm Login -INFO - enter value into username: nehaRegression@ibm.com
+2022-11-02 00:10:31,764 - NOP Comm Login -INFO - clear text from password field.
+2022-11-02 00:10:31,833 - NOP Comm Login -INFO - enter value into password: welcome@123
+2022-11-02 00:10:33,912 - NOP Comm Login -INFO - click on checkbox
+2022-11-02 00:10:35,992 - NOP Comm Login -INFO - click on Login button.
+2022-11-02 00:10:38,898 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-11-02 00:10:40,933 - NOP Comm Login -INFO - clear text from username field.
+2022-11-02 00:10:40,996 - NOP Comm Login -INFO - enter value into username: BhavanaRegression@ibm.com
+2022-11-02 00:10:43,092 - NOP Comm Login -INFO - clear text from password field.
+2022-11-02 00:10:43,160 - NOP Comm Login -INFO - enter value into password: welcome@123
+2022-11-02 00:10:45,246 - NOP Comm Login -INFO - click on checkbox
+2022-11-02 00:10:47,327 - NOP Comm Login -INFO - click on Login button.
+2022-11-02 00:10:50,233 - NOP Comm Login -INFO - Validation of error message for invalid user.
+2022-11-02 00:10:50,256 - NOP Comm Login -INFO - closing chrome browser.
